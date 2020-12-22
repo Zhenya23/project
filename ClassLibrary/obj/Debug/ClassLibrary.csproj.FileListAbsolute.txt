@@ -1,0 +1,6 @@
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\ClassLibrary\obj\Debug\ClassLibrary.pdb

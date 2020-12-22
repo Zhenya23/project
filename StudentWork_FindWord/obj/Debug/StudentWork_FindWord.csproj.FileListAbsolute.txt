@@ -1,0 +1,13 @@
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\bin\Debug\StudentWork_FindWord.exe.config
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\bin\Debug\StudentWork_FindWord.exe
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\bin\Debug\StudentWork_FindWord.pdb
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\bin\Debug\ClassLibrary.dll
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\bin\Debug\ClassLibrary.pdb
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.csprojAssemblyReference.cache
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.Form1.resources
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.Properties.Resources.resources
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.csproj.GenerateResource.cache
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.csproj.CopyComplete
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.exe
+C:\Users\Zhenya\Desktop\StudentWork_FindWord-main\StudentWork_FindWord\obj\Debug\StudentWork_FindWord.pdb
